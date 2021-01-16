@@ -7,3 +7,5 @@ Create a markdown page (optionally, you may choose to upload a PDF), which will 
 - Include datasource with links
 - A scope that explains the intended analysis and resulting visualizations for your project
 - A concluding paragraph of what insights you expect to gain from your research
+
+## Research Question
