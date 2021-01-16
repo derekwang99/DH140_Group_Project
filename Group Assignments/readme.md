@@ -13,5 +13,7 @@ This past year has proven incredibly difficult and unrehearsed, as we continue t
 
 As LA residents who see the effects of the pandemic and recession on the economy, we propose the following research questions: **"How has the COVID-19 pandemic impacted the population of businesses in Los Angeles? But on a deeper level, how do power dynamics of capital and access determine which businesses can stay afloat amidst these difficult realities?"**
 
-## Why This Research Matters
+## Why Research Matters
 This research is important to us because we want to better understand the correaltion of the pandemic and the economy by tracing the spread of the virus and the number of active businesses. Data showing infeected cases, deaths, and closed businesses not only serve as the material condition for our research, but ultimately contexualize human experiences and shows that this pandemic has had big impacts on our health as well as the way we financially sustain ourselves. By investigating this topic, we can provide insights to business owners and entrepreneurs who may want to work in LA during a pandemic timeline.
+
+## Spatial Scope
