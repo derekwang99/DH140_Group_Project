@@ -32,3 +32,6 @@ The **COVID-19 Data Repository by the Center for Systems Science and Engineering
 * https://github.com/CSSEGISandData/COVID-19 (Johns Hopkins)
   * https://github.com/datadesk/california-coronavirus-data (LA Times)
   * http://publichealth.lacounty.gov/media/coronavirus/ (LA Public Health)
+  
+## Analysis Scope and Visualizations
+Our scope for our analysis revolves around 
