@@ -35,7 +35,14 @@ The **COVID-19 Data Repository by the Center for Systems Science and Engineering
   
 
 ## Analysis Scope and Visualizations
-Our scope for our analysis revolves around observing and understanding how COVID-19 has impacted the business sector. From this, we can analyze what sort of businesses have popped up and what businesses have shut down as a result of the pandemic. Our data provides us with the opportunity to map the rise and fall of businesses in the form of a time-lapse visualization--each business can be represented as a small dot. To add another layer of complexity, we can also heat map the confirmed COVID-19 cases by county on the same map. 
+Our scope for our analysis revolves around observing and understanding how COVID-19 has impacted the business sector. From this, we can analyze what sort of businesses have popped up and what businesses have shut down as a result of the pandemic. Our data provides us with the opportunity to map the rise and fall of businesses in the form of a time-lapse visualization--each business can be represented as a small dot. To add another layer of complexity, we can also heat map the confirmed COVID-19 cases by county on the same map. We hope to see which counties are hit especially hard by the pandemic.
 
-**note to hen:** RQ: "In a deeper level, how do power dynamics of capital and access determine which businesses can stay afloat amidst these difficult realities?" This is really good :D but I having trouble trying to think of a visualization :o can u think of any? If not we can try to just talkj about it in our project. 
+**note to hen:** Research Question: "In a deeper level, how do power dynamics of capital and access determine which businesses can stay afloat amidst these difficult realities?" This is really good :D but I having trouble trying to think of a visualization :o can u think of any? If not we can try to just talkj about it in our project. 
+
+
+## Conclusion
+All in all, we hope to better understand how COVID-19 has affected the many different industries within the business sector. Our research will also allow us to understand how businesses can adapt to the demands of the public (is this a stretch?) as a consequence of the pandemic. 
+
+**note to hen:**  idk what other insights ~ my thing is kind of a repeat of everything else so feel free to change it 
+
 
