@@ -41,8 +41,8 @@ Our scope for our analysis revolves around observing and understanding how COVID
 
 
 ## Conclusion
-All in all, we hope to better understand how COVID-19 has affected the many different industries within the business sector. Our research will also allow us to understand how businesses can adapt to the demands of the public (is this a stretch?) as a consequence of the pandemic. 
+All in all, we hope to better understand how COVID-19 has affected the many different industries within the business sector. Our research will also allow us to better understand how businesses can adapt to the demands of the public (is this a stretch?) as a consequence of the pandemic. 
 
-**note to hen:**  idk what other insights ~ my thing is kind of a repeat of everything else so feel free to change it 
+**note to hen:**  idk what other insights atm  ~ my thing ^ is kind of a repeat of everything else so feel free to change it 
 
 
