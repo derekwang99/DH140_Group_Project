@@ -33,13 +33,9 @@ The **COVID-19 Data Repository by the Center for Systems Science and Engineering
   * https://github.com/datadesk/california-coronavirus-data (LA Times)
   * http://publichealth.lacounty.gov/media/coronavirus/ (LA Public Health)
   
-  
-* **How has the COVID-19 pandemic impacted the population of businesses in Los Angeles?** 
-* **On a deeper level, how do power dynamics of capital and access determine which businesses can stay afloat amidst these difficult realities?**
-
 
 ## Analysis Scope and Visualizations
 Our scope for our analysis revolves around observing and understanding how COVID-19 has impacted the business sector. From this, we can analyze what sort of businesses have popped up and what businesses have shut down as a result of the pandemic. Our data provides us with the opportunity to map the rise and fall of businesses in the form of a time-lapse visualization--each business can be represented as a small dot. To add another layer of complexity, we can also heat map the confirmed COVID-19 cases by county on the same map. 
 
+**note to hen:** RQ: "In a deeper level, how do power dynamics of capital and access determine which businesses can stay afloat amidst these difficult realities?" This is really good :D but I having trouble trying to think of a visualization :o can u think of any? If not we can try to just talkj about it in our project. 
 
-concerns: mapping all businesses may become messy due to sheer number of data points (but thats ok i tink)
