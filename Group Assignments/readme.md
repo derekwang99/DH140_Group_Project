@@ -35,3 +35,9 @@ The **COVID-19 Data Repository by the Center for Systems Science and Engineering
   
 ## Analysis Scope and Visualizations
 Our scope for our analysis revolves around 
+
+hi hen ill be home at 10:30 ~ 
+notes to self:  time-lapse map of businesses popping up/closing down over course of covid. we take note as to what sort of businesses are popping up/closing down.
+can also include heat map of covid case by county. (in my head: over course of X month, county go from grey (no case) to red (bad) and businesses are represented as dots/etc.
+
+concerns: mapping all businesses may become messy due to sheer number of data points (but thats ok i tink)
