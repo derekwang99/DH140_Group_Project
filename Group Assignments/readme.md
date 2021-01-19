@@ -33,11 +33,13 @@ The **COVID-19 Data Repository by the Center for Systems Science and Engineering
   * https://github.com/datadesk/california-coronavirus-data (LA Times)
   * http://publichealth.lacounty.gov/media/coronavirus/ (LA Public Health)
   
-## Analysis Scope and Visualizations
-Our scope for our analysis revolves around 
+  
+* **How has the COVID-19 pandemic impacted the population of businesses in Los Angeles?** 
+* **On a deeper level, how do power dynamics of capital and access determine which businesses can stay afloat amidst these difficult realities?**
 
-hi hen ill be home at 10:30 ~ 
-notes to self:  time-lapse map of businesses popping up/closing down over course of covid. we take note as to what sort of businesses are popping up/closing down.
-can also include heat map of covid case by county. (in my head: over course of X month, county go from grey (no case) to red (bad) and businesses are represented as dots/etc.
+
+## Analysis Scope and Visualizations
+Our scope for our analysis revolves around observing and understanding how COVID-19 has impacted the business sector. From this, we can analyze what sort of businesses have popped up and what businesses have shut down as a result of the pandemic. Our data provides us with the opportunity to map the rise and fall of businesses in the form of a time-lapse visualization--each business can be represented as a small dot. To add another layer of complexity, we can also heat map the confirmed COVID-19 cases by county on the same map. 
+
 
 concerns: mapping all businesses may become messy due to sheer number of data points (but thats ok i tink)
