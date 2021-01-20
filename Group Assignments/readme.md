@@ -35,14 +35,10 @@ The **COVID-19 Data Repository by the Center for Systems Science and Engineering
   
 
 ## Analysis Scope and Visualizations
-Our scope for our analysis revolves around observing and understanding how COVID-19 has impacted the business sector. From this, we can analyze what sort of businesses have popped up and what businesses have shut down as a result of the pandemic. Our data provides us with the opportunity to map the rise and fall of businesses in the form of a time-lapse visualization--each business can be represented as a small dot. To add another layer of complexity, we can also heat map the confirmed COVID-19 cases by county on the same map. Since different counties have different legislation concerning COVID-19, it will be interesting to see which counties are hit especially hard.
-
-**note to hen:** Research Question: "In a deeper level, how do power dynamics of capital and access determine which businesses can stay afloat amidst these difficult realities?" This is really good :D but I having trouble trying to think of a visualization :o can u think of any? If not we can try to just talkj about it in our project. 
+Our scope for our analysis revolves around observing and understanding how COVID-19 has impacted the business sector. From this, we can analyze what sort of businesses have popped up and what businesses have shut down as a result of the pandemic. Our data provides us with the opportunity to map the rise and fall of businesses in the form of a time-lapse visualization--each business can be represented as a small dot. To add another layer of complexity, we can also heat map the confirmed COVID-19 cases by county on the same map. Since different counties have different legislation concerning COVID-19, it will be interesting to see which counties are hit especially hard. Additonally, we can track the population of businesses in different zip codes to better understand how business operations are tied into the wealth (or lack thereof) and consumer spending of the residents in a particular area.
 
 
 ## Conclusion
-All in all, we hope to better understand how COVID-19 has affected the many different industries within the business sector. Our research will also allow us to better understand how businesses can adapt to the demands of the public (is this a stretch?) as a consequence of the pandemic. 
-
-**note to hen:**  idk what other insights atm  ~ my thing ^ is kind of a repeat of everything else so feel free to change it 
+All in all, we hope to better understand how COVID-19 has affected the many different industries within the business sector. Our research will also allow us to better understand how businesses can adapt to the demands of the public as a consequence of the pandemic. By illuminiating the fluctuating trends and economic constraints on the LA business scene, we can provide meaningful insights for aspiring business owners and entrepeneurs.
 
 
