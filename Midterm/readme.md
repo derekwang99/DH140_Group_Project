@@ -28,7 +28,12 @@ derek: if we include "on the health of these communities" instead of impact on c
 **On a deeper level, how do power dynamics of capital and access determine which businesses can stay afloat amidst these difficult realities?**~~
 
 ## Why This Research Matters
-This research matters because we want to see business trends in the past year, especially in the context of the COVID-19. That said, we are paying extra attention on what we have gathered as essential businesses because they not only play a critical role in mitigating the virus (eg medical and testing centers, ambulances, and hospitals) but also provide immediate relief and resources to communities (eg, grocery stores, social work, real estate). By examining a communities (spatial) relation to these essential businesses while simultaneously factoring pre-exisiting community conditions, we can get a more hollistic yet nuanced understanding of the quality of life in these areas.
+
+derek: because COVID-19 has likely shifted business dynamics for the past year, it would be interesting to observe how the business landscape of Los Angeles has transformed. 
+
+note to self maybe map various sectors (e.g. restaurants, etc) 1 year ago and 1 year later with active la business data? if that doesnt show a large difference, maybe we can map active and closed business on same map but green dot = active, red = closed.
+
+This research matters because we want to see business trends in the past year, especially in the context of the COVID-19. That said, we are paying extra attention on what we have gathered as essential businesses because they not only play a critical role in mitigating the virus (eg medical and testing centers, ambulances, and hospitals) but also provide immediate relief and resources to communities (eg, grocery stores, social work, real estate). By examining a communities (spatial) relation to these essential businesses while simultaneously factoring pre-exisiting community conditions, we can get a more holistic yet nuanced understanding of the quality of life in these areas.
 
 ~~This research is important to us because we want to better understand the correlation between the pandemic and the economy by tracing the spread of the virus and the number of active businesses. Data showing infected cases, deaths, and closed businesses not only serve as the material condition for our research but ultimately contextualize human experiences and shows that this pandemic has had big impacts on our health as well as the way we financially sustain ourselves. By investigating this topic, we can provide insights to business owners and entrepreneurs who may want to work in LA during a pandemic.~~
 
