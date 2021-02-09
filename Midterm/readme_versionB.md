@@ -57,5 +57,5 @@ Additionally, we will create a static map of Los Angeles that maps the HPI of ea
 
 ## Conclusion
 
-
+moving forward we are going look at individual communities and preexisting
 ~~All in all, we hope to better understand how COVID-19 has affected the many different industries within the business sector. Our research will also allow us to better understand how businesses can adapt to the demands of the public as a consequence of the pandemic. By illuminiating the fluctuating trends and economic constraints on the LA business scene, we can provide meaningful insights for aspiring business owners and entrepeneurs.~~
