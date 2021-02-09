@@ -17,13 +17,14 @@ This past year has proven incredibly difficult and unrehearsed, as we continue t
 As a result we propose the following research questions:
 * How has the COVID-19 pandemic impacted businesses in the LA area, particulary those deemed essential?
 * Does the count and distrubtion of essential businesses across the LA area bear serious impact on communities? In other words, does having essential businesses (or lack thereof) in your area affect the conditons of your community?
+
 **note: should include a question alluding to HPI??**
 
-~~This past year has proven incredibly difficult and unrehearsed, as we continue this drawn-out battle against the COVID-19 pandemic. Since March of 2020, the US has implemented numerous legislations and guidelines in an attempt to mitigate the spread of the virus. Not only were our personal lives impacted by these rapid changes (e.g., enforced masks, social distancing, limited gatherings) but we also saw dramatic changes in the workforce: shuttered down offices, massive layoffs, and dampened outlook on the economy. And while certain businesses, namely large corporations, have managed to stay afloat through remote work or company mandated testing, small entrepreneurs and business owners do not have this flexibility.*
+~~This past year has proven incredibly difficult and unrehearsed, as we continue this drawn-out battle against the COVID-19 pandemic. Since March of 2020, the US has implemented numerous legislations and guidelines in an attempt to mitigate the spread of the virus. Not only were our personal lives impacted by these rapid changes (e.g., enforced masks, social distancing, limited gatherings) but we also saw dramatic changes in the workforce: shuttered down offices, massive layoffs, and dampened outlook on the economy. And while certain businesses, namely large corporations, have managed to stay afloat through remote work or company mandated testing, small entrepreneurs and business owners do not have this flexibility.
 
 ~~As LA residents who see the effects of the pandemic and recession on the economy, we propose the following research questions: 
-* **How has the COVID-19 pandemic impacted the population of businesses in Los Angeles?** 
-~~* **On a deeper level, how do power dynamics of capital and access determine which businesses can stay afloat amidst these difficult realities?**
+**How has the COVID-19 pandemic impacted the population of businesses in Los Angeles?** 
+**On a deeper level, how do power dynamics of capital and access determine which businesses can stay afloat amidst these difficult realities?**
 
 ## Why This Research Matters
 This research is important to us because we want to better understand the correlation between the pandemic and the economy by tracing the spread of the virus and the number of active businesses. Data showing infected cases, deaths, and closed businesses not only serve as the material condition for our research but ultimately contextualize human experiences and shows that this pandemic has had big impacts on our health as well as the way we financially sustain ourselves. By investigating this topic, we can provide insights to business owners and entrepreneurs who may want to work in LA during a pandemic.
