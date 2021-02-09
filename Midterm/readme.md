@@ -19,6 +19,7 @@ As a result we propose the following research questions:
 * Does the count and distrubtion of essential businesses across the LA area bear serious impact on communities? In other words, does having essential businesses (or lack thereof) in your area affect the conditons of your community?
 
 **note: should include a question alluding to HPI??**
+derek: if we include "on the health of these communities" instead of impact on communities i think we can add the HPI aspect that way.
 
 ~~This past year has proven incredibly difficult and unrehearsed, as we continue this drawn-out battle against the COVID-19 pandemic. Since March of 2020, the US has implemented numerous legislations and guidelines in an attempt to mitigate the spread of the virus. Not only were our personal lives impacted by these rapid changes (e.g., enforced masks, social distancing, limited gatherings) but we also saw dramatic changes in the workforce: shuttered down offices, massive layoffs, and dampened outlook on the economy. And while certain businesses, namely large corporations, have managed to stay afloat through remote work or company mandated testing, small entrepreneurs and business owners do not have this flexibility.~~
 
