@@ -12,7 +12,7 @@ Create a markdown page (optionally, you may choose to upload a PDF), which will 
 **note to self: cuts off at 2018, change visualizations/analysis accordingly if there is time. 
 
 ## Research Question
-This past year has proven incredibly difficult and unrehearsed, as we continue this drawn-out battle against the COVID-19 pandemic. Not only did we see dramatic changes set upon the workforce (eg massive layoffs and economic downturn), but we also saw communities and individuals heavily impacted this pandemic--with many reports regarding issues accessing to healthcare, food, and social resources. Additionally, a discussion surrounding which types of businesses should be prioritized arose, as we are all asking the question, "What's essential and non-essential?" Taking this all together, we became curious about how the material conditions of a community (eg, race, income, education, etc) and the distribution/distance to "essential" businesses can shape the quality of life of a community(?)
+This past year has proven incredibly difficult and unrehearsed, as we continue this drawn-out battle against the COVID-19 pandemic. Not only did we see dramatic changes set upon the workforce (eg massive layoffs and economic downturn), but we also saw communities and individuals heavily impacted this pandemic--with many reports regarding issues accessing to healthcare, food, and social resources. Additionally, a discussion surrounding which types of businesses should be prioritized arose, as we are all asking the question, "What's essential and non-essential?" Taking this all together, we became curious about how the community conditions of a community (eg, race, income, education, etc) and the distribution/distance to "essential" businesses can shape the quality of life of a community(?)
 
 As a result we propose the following research questions:
 * How has the COVID-19 pandemic impacted businesses in the LA area, particulary those deemed essential?
@@ -27,10 +27,14 @@ As a result we propose the following research questions:
 **On a deeper level, how do power dynamics of capital and access determine which businesses can stay afloat amidst these difficult realities?**~~
 
 ## Why This Research Matters
-This research is important to us because we want to better understand the correlation between the pandemic and the economy by tracing the spread of the virus and the number of active businesses. Data showing infected cases, deaths, and closed businesses not only serve as the material condition for our research but ultimately contextualize human experiences and shows that this pandemic has had big impacts on our health as well as the way we financially sustain ourselves. By investigating this topic, we can provide insights to business owners and entrepreneurs who may want to work in LA during a pandemic.
+This research matters because we want to see business trends in the past year, especially in the context of the COVID-19. That said, we are paying extra attention on what we have gathered as essential businesses because they not only play a critical role in mitigating the virus (eg medical and testing centers, ambulances, and hospitals) but also provide immediate relief and resources to communities (eg, grocery stores, social work, real estate). By examining a communities (spatial) relation to these essential businesses while simultaneously factoring pre-exisiting community conditions, we can get a more hollistic yet nuanced understanding of the quality of life in these areas.
+
+~~This research is important to us because we want to better understand the correlation between the pandemic and the economy by tracing the spread of the virus and the number of active businesses. Data showing infected cases, deaths, and closed businesses not only serve as the material condition for our research but ultimately contextualize human experiences and shows that this pandemic has had big impacts on our health as well as the way we financially sustain ourselves. By investigating this topic, we can provide insights to business owners and entrepreneurs who may want to work in LA during a pandemic.~~
 
 ## Spatial Scope
-Our spatial scope is centered in Los Angeles, and we will segment active businesses by different zip codes (e.g., Culver City vs Koreatown) to compare business populations in more affluent areas to lower-income ones. As a result, space and time are essential concepts to our project because we get to contextualize the total number of COVID-19 cases to active businesses over the course of the pandemic.
+Up to the midterm, our spatial scope is set to the entire Los Angeles area. Our project timeline as it pertains to our businesses dataset runs until the end of 2020. Space and time are essential concepts to our project because we are contextualizing the fluctuations of businesses over time as well as the distribution of businesses across the LA area. When we eventually incorporate HPI (Healthy Place Index) data into our research, we will attempt to segment different pocket of LA and examine their HPI scores.
+
+~~Our spatial scope is centered in Los Angeles, and we will segment active businesses by different zip codes (e.g., Culver City vs Koreatown) to compare business populations in more affluent areas to lower-income ones. As a result, space and time are essential concepts to our project because we get to contextualize the total number of COVID-19 cases to active businesses over the course of the pandemic.~~
 
 ## Data Sets
 
@@ -48,17 +52,22 @@ The **Listing of Closed Businesses** data set is generated by the Los Angeles Of
 
 ~~The **COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University** contains multiple data sources (e.g., WHO, LA Times, LA Public Health, etc.) which provide COVID-19 information, such as active cases, deaths, state, county, etc. For our project, we will focus on COVID-19 data that's specific to the LA area. To that end, space and time are essential here too because they show the number of COVID 19-related cases and deaths in the last year.~~
 
-~~**Source(s)**: ~~
+~~**Source(s)**:~~
 ~~* https://github.com/CSSEGISandData/COVID-19 (Johns Hopkins)~~
   ~~* https://github.com/datadesk/california-coronavirus-data (LA Times)~~
   ~~* http://publichealth.lacounty.gov/media/coronavirus/ (LA Public Health)~~
   
 
 ## Analysis Scope and Visualizations
-Our scope for our analysis revolves around observing and understanding how COVID-19 has impacted the business sector. From this, we can analyze what sort of businesses have popped up and what businesses have shut down as a result of the pandemic. Our data provides us with the opportunity to map the rise and fall of businesses in the form of a time-lapse visualization--each business can be represented as a small dot. To add another layer of complexity, we can also heat map the confirmed COVID-19 cases by county on the same map. Since different counties have different legislation concerning COVID-19, it will be interesting to see which counties are hit especially hard. Additonally, we can track the population of businesses in different zip codes to better understand how business operations are tied into the wealth (or lack thereof) and consumer spending of the residents in a particular area.
+**note to Derek:**
+* Understanding the changes of businesses within the past year (time charts, bar graphs)
+* Segmenting essential businesses and seeing where they spatially are
+* Moving forward, we want to examine HPI scores of different parts of LA in relation to essential businesses (focus on people's distance to resources/help; will talk about the clustering of essential business???)
+
+~~Our scope for our analysis revolves around observing and understanding how COVID-19 has impacted the business sector. From this, we can analyze what sort of businesses have popped up and what businesses have shut down as a result of the pandemic. Our data provides us with the opportunity to map the rise and fall of businesses in the form of a time-lapse visualization--each business can be represented as a small dot. To add another layer of complexity, we can also heat map the confirmed COVID-19 cases by county on the same map. Since different counties have different legislation concerning COVID-19, it will be interesting to see which counties are hit especially hard. Additonally, we can track the population of businesses in different zip codes to better understand how business operations are tied into the wealth (or lack thereof) and consumer spending of the residents in a particular area.~~
 
 
 ## Conclusion
-All in all, we hope to better understand how COVID-19 has affected the many different industries within the business sector. Our research will also allow us to better understand how businesses can adapt to the demands of the public as a consequence of the pandemic. By illuminiating the fluctuating trends and economic constraints on the LA business scene, we can provide meaningful insights for aspiring business owners and entrepeneurs.
 
 
+~~All in all, we hope to better understand how COVID-19 has affected the many different industries within the business sector. Our research will also allow us to better understand how businesses can adapt to the demands of the public as a consequence of the pandemic. By illuminiating the fluctuating trends and economic constraints on the LA business scene, we can provide meaningful insights for aspiring business owners and entrepeneurs.~~
