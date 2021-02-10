@@ -43,6 +43,8 @@ We will be creating an interactive map that will map only active businesses in L
 
 Additionally, we will create a static map of Los Angeles that maps the HPI of each community by tract. With this visualization, we can see where communities of low HPI are clustered and we can analyze why that is.
 
-
 ## Conclusion
 All in all, we hope to better understand the fluctuations of LA businesses over time, particularly within the past year. Through our graphs and spatial visualizations, we can see the distribution of businesses across the LA area as well as any patterns of clustering specific zones. By focusing critically on essential businesses and the distance it takes for people from different cities to reach them, we can draw meaningful insights regarding how access to these essential businesses (or lack thereof) can impact the conditions and quality of life of cities. Furthermore, we can understand if there are any preexisting conditions that affect an individual community's HPI by investigating communities on a smaller scale.
+
+## Presentation Notebook
+Link: https://github.com/derekwang99/DH140_Group_Project/blob/main/Midterm/Midterm%20Presentation.ipynb
